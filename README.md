@@ -13,7 +13,7 @@ This is a task from I4G X ZURI TEAM training 2022. I created two pages(one with 
 
 ### Links
 
-- [Solution URL](https://codayomide-registration-form-task.netlify.app)
+- [Solution URL](https://codayomide-grid-flex-layout-task.netlify.app)
 
 ## My process
 
