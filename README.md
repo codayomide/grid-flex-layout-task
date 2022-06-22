@@ -13,7 +13,7 @@ This is a task from I4G X ZURI TEAM training 2022. I created two pages(one with 
 
 ### Links
 
-- [Solution URL](https://codayomide.github.io/grid-flex-layout-task)
+Solution URL- [https://codayomide.github.io/grid-flex-layout-task](https://codayomide.github.io/grid-flex-layout-task)
 
 ## My process
 
